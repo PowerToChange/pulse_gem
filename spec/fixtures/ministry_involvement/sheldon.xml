@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ministry_involvements first_name="Sheldon" last_name="Dude" email="sheldon.dude@internet.com" guid="IUDSKL2-34FJLSDKF120-948JLSKDJ-FD90KLJK">
+  <ministry_involvement ministry_involvement_id="2">
+    <role type="StaffRole" role_id="3" position="3" name="Staff Alumni" />
+    <start_date>2010-01-14</start_date>
+    <last_history_update_date />
+    <ministry ministry_id="2" name="Power to Change - Students">
+      <campus name="Acadia University - Wolfville" campus_id="166" />
+      <campus name="Algonquin College" campus_id="167" />
+      <campus name="Brock University" campus_id="72" />
+      <campus name="Carleton University" campus_id="43" />
+      <campus name="Cégep Champlain - Saint Lambert" campus_id="191" />
+      <campus name="Cégep de Rimouski" campus_id="186" />
+      <campus name="Cégep de Ste-Foy" campus_id="144" />
+      <campus name="Cégep François-Xavier-Garneau" campus_id="146" />
+      <campus name="Cégep St. Lawrence" campus_id="145" />
+      <campus name="Centennial College" campus_id="157" />
+      <campus name="College of the Rockies" campus_id="76" />
+      <campus name="Concordia University" campus_id="73" />
+      <campus name="Conestoga College" campus_id="170" />
+      <campus name="Dalhousie University" campus_id="37" />
+      <campus name="Dawson College" campus_id="171" />
+      <campus name="Fanshawe College" campus_id="74" />
+      <campus name="George Brown College" campus_id="153" />
+      <campus name="Grant MacEwan University" campus_id="150" />
+      <campus name="Humber College" campus_id="154" />
+      <campus name="John Abbott College - Sainte-Anne-de-Bellevue" campus_id="189" />
+      <campus name="Lakehead University" campus_id="84" />
+      <campus name="Lakehead University - Orillia" campus_id="172" />
+      <campus name="Langara College" campus_id="158" />
+      <campus name="Makerere University" campus_id="188" />
+      <campus name="McGill University" campus_id="61" />
+      <campus name="McMaster University" campus_id="46" />
+      <campus name="Mohawk College" campus_id="160" />
+      <campus name="Mount Allison University" campus_id="75" />
+      <campus name="Mount Royal University" campus_id="163" />
+      <campus name="Mount Saint Vincent University" campus_id="185" />
+      <campus name="Niagara College - Welland Campus" campus_id="175" />
+      <campus name="Ontario College of Art &amp; Design" campus_id="155" />
+      <campus name="Other" campus_id="87" />
+      <campus name="Queen's University" campus_id="48" />
+      <campus name="Ryerson University" campus_id="49" />
+      <campus name="Saint Mary's University" campus_id="40" />
+      <campus name="Seneca College" campus_id="156" />
+      <campus name="Sheridan College" campus_id="77" />
+      <campus name="Sheridan College - Brampton" campus_id="177" />
+      <campus name="Simon Fraser University" campus_id="14" />
+      <campus name="Simon Fraser University - Surrey" campus_id="148" />
+      <campus name="Simon Fraser University - Vancouver" campus_id="184" />
+      <campus name="St. Francis Xavier - Antigonish" campus_id="178" />
+      <campus name="St. Thomas University" campus_id="190" />
+      <campus name="Trent University" campus_id="80" />
+      <campus name="Trent University - Oshawa" campus_id="179" />
+      <campus name="Trinity Western University" campus_id="88" />
+      <campus name="Université de Montréal" campus_id="62" />
+      <campus name="Université de Sherbrooke" campus_id="64" />
+      <campus name="Université du Québec à Montréal" campus_id="162" />
+      <campus name="Université du Québec à Québec" campus_id="63" />
+      <campus name="Université du Québec à Rimouski" campus_id="161" />
+      <campus name="Université Laval" campus_id="65" />
+      <campus name="University of Alberta" campus_id="7" />
+      <campus name="University of Alberta - Augustana" campus_id="149" />
+      <campus name="University of Alberta - Faculty Saint-Jean" campus_id="143" />
+      <campus name="University of British Columbia" campus_id="19" />
+      <campus name="University of British Columbia - Okanagan" campus_id="159" />
+      <campus name="University of Calgary" campus_id="8" />
+      <campus name="University of Guelph" campus_id="51" />
+      <campus name="University of Manitoba" campus_id="24" />
+      <campus name="University of New Brunswick - Fredericton" campus_id="83" />
+      <campus name="University of New Brunswick - Saint John" campus_id="147" />
+      <campus name="University of Ontario Institute of Technology" campus_id="141" />
+      <campus name="University of Ottawa" campus_id="53" />
+      <campus name="University of Regina" campus_id="67" />
+      <campus name="University of Saskatchewan" campus_id="68" />
+      <campus name="University of the Fraser Valley" campus_id="182" />
+      <campus name="University of Toronto" campus_id="54" />
+      <campus name="University of Toronto - Mississauga" campus_id="152" />
+      <campus name="University of Toronto - Scarbourough" campus_id="142" />
+      <campus name="University of Victoria" campus_id="85" />
+      <campus name="University of Waterloo" campus_id="1" />
+      <campus name="University of Waterloo School of Pharmacy" campus_id="165" />
+      <campus name="University of Windsor" campus_id="55" />
+      <campus name="University of Winnipeg" campus_id="183" />
+      <campus name="Western University" campus_id="2" />
+      <campus name="Wilfrid Laurier University" campus_id="56" />
+      <campus name="Wilfrid Laurier University - Brantford" campus_id="164" />
+      <campus name="York University" campus_id="57" />
+      <campus name="York University - Glendon" campus_id="151" />
+    </ministry>
+  </ministry_involvement>
+  <ministry_involvement ministry_involvement_id="13886">
+    <role type="StudentRole" role_id="8" position="3" name="Student" />
+    <start_date />
+    <last_history_update_date />
+    <ministry ministry_id="24" name="Winnipeg Team">
+      <campus name="University of Manitoba" campus_id="24" />
+      <campus name="University of Winnipeg" campus_id="183" />
+    </ministry>
+  </ministry_involvement>
+</ministry_involvements>
