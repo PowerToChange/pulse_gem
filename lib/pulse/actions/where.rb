@@ -6,7 +6,8 @@ module Pulse
       module ClassMethods
         def where(params = {})
           params.merge!('resource' => resource_name)
-          build_response(params)
+          built = build_response(params) || []
+          built.is_a?(Array) ? built : [built]
         end
 
         private
