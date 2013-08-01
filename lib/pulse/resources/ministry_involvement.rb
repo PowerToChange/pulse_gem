@@ -5,12 +5,13 @@ module Pulse
     class << self
       def build_from(resp, request_params = {})
         if resp.is_a?(Array)
-          new_resp = resp.first['ministry_involvements']['ministry_involvement']
+          # Get the ministry involvements in an array of hashes
+          new_resp = [resp.first['ministry_involvements']['ministry_involvement']].flatten
 
           # Include some user meta data for convenience
-          ['first_name', 'last_name', 'email', 'guid', 'civicrm_id'].each do |user_attribute|
-            new_resp.each do |mi|
-              mi['user'] ||= {}
+          new_resp.each do |mi|
+            mi['user'] ||= {}
+            ['first_name', 'last_name', 'email', 'guid', 'civicrm_id'].each do |user_attribute|
               mi['user'][user_attribute] = resp.first['ministry_involvements'][user_attribute]
             end
           end
