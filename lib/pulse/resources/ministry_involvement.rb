@@ -11,7 +11,7 @@ module Pulse
           # Include some user meta data for convenience
           new_resp.each do |mi|
             mi['user'] ||= {}
-            ['first_name', 'last_name', 'email', 'guid', 'civicrm_id'].each do |user_attribute|
+            ['first_name', 'last_name', 'email', 'guid', 'civicrm_id', 'id'].each do |user_attribute|
               mi['user'][user_attribute] = resp.first['ministry_involvements'][user_attribute]
             end
           end
