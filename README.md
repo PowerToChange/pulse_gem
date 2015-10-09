@@ -1,5 +1,7 @@
 # pulse_gem
 
+:warning: The Pulse service has been retired, and this gem is no longer maintained.
+
 ## Installation
 
 Add this line to your application's Gemfile:
