@@ -6,8 +6,7 @@ require 'pulse/version'
 Gem::Specification.new do |spec|
   spec.name          = "pulse"
   spec.version       = Pulse::VERSION
-  spec.authors       = ["Sheldon Dueck"]
-  spec.email         = ["sheldon.dueck@gmail.com"]
+  spec.authors       = ["sheldond"]
   spec.description   = %q{See README for details}
   spec.summary       = %q{Ruby bindings for the Pulse API}
   spec.homepage      = "https://pulse.powertochange.com"
